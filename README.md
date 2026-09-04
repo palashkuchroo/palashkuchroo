@@ -1,4 +1,4 @@
-# Hi, I'm Palash Kuchroo 👋
+# Hi, I'm Palash Khuchroo 👋
 
 ### CSE (AI & ML) Student | AI/ML Developer | Web Developer | Robotics & Physical AI Enthusiast
 
@@ -30,19 +30,27 @@ I'm currently exploring the intersection of **AI/ML, Robotics, Embedded Systems,
 - Embedded Systems
 - Electronics
 - Physical AI
+- ROS 2
+- Databases & DBMS
 
 ---
 
 ## 🔧 Tech Stack
 
-### Programming
-`Python` `C` `C++` `JavaScript`
+### Programming Languages
+`Python` `C` `C++` `JavaScript` `SQL`
 
 ### AI / ML
 `Machine Learning` `Deep Learning` `Computer Vision` `NLP`
 
 ### Web Development
 `HTML` `CSS` `JavaScript` `React` `Node.js`
+
+### Robotics & Hardware
+`ROS 2` `Arduino` `Embedded Systems` `Electronics`
+
+### Databases
+`SQL` `DBMS`
 
 ### Tools & Platforms
 `Git` `GitHub` `VS Code` `Linux`
@@ -57,8 +65,8 @@ I'm currently exploring the intersection of **AI/ML, Robotics, Embedded Systems,
 |---|---|---|
 | 🤖 AI/ML Project | Coming soon | Python • ML |
 | 🌐 Web Application | Coming soon | Web Technologies |
-| 🔌 Electronics / IoT | Coming soon | Embedded • Hardware |
-| 🦾 Physical AI Project | Coming soon | AI • Robotics |
+| 🔌 Electronics / IoT | Coming soon | Arduino • Embedded |
+| 🦾 Physical AI Project | Coming soon | AI • Robotics • ROS 2 |
 
 ---
 
@@ -67,7 +75,9 @@ I'm currently exploring the intersection of **AI/ML, Robotics, Embedded Systems,
 - Machine Learning & Deep Learning
 - Computer Vision
 - Robotics & Embedded Systems
+- ROS 2
 - AI-powered applications
+- SQL & DBMS
 - Physical AI
 
 ---
