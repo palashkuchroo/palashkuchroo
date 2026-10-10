@@ -1,4 +1,4 @@
-# Hi, I'm Palash Khuchroo 👋
+# Hi, I'm Palash Kuchroo 👋
 
 ### CSE (AI & ML) Student | AI/ML Developer | Web Developer | Robotics & Physical AI Enthusiast
 
